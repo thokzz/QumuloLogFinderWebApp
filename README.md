@@ -1,6 +1,6 @@
 # Log Finder Web Application
 
-![Log Finder Screenshot](https://via.placeholder.com/1200x600?text=Log+Finder+Web+App)
+
 
 ## Project Overview
 
