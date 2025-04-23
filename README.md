@@ -8,6 +8,27 @@ https://claude.ai/public/artifacts/b09aa8e8-74b2-48e3-9a5c-2a981fb026a4
 
 Log Finder is a full-stack web application designed to efficiently search and analyze system logs across multiple server nodes. This tool streamlines the process of filtering through large log files, presenting results in a user-friendly interface, and allowing for export capabilities.
 
+## 🔍 Qumulo Log Finder Web App Screenshots
+
+### 🖼️ Front Page
+![Front Page](https://github.com/thokzz/QumuloLogFinderWebApp/blob/main/QumuloLogFinderWebApp/assets/QumuloLogFinder%20FrontPage.png?raw=true)
+
+### 🎛️ Additional Search Filters
+![Additional Search Filters](https://github.com/thokzz/QumuloLogFinderWebApp/blob/main/QumuloLogFinderWebApp/assets/QumuloLogFinder%20additional%20search%20filter.png?raw=true)
+
+### 🚫 Reached Limit Alert
+![Reached Limit](https://github.com/thokzz/QumuloLogFinderWebApp/blob/main/QumuloLogFinderWebApp/assets/QumuloLogFinder%20reached%20limit.png?raw=true)
+
+### 🔄 Searching State
+![Searching](https://github.com/thokzz/QumuloLogFinderWebApp/blob/main/QumuloLogFinderWebApp/assets/QumuloLogFinder%20searching.png?raw=true)
+
+### 🧠 System Diagram
+![WebApp Diagram](https://github.com/thokzz/QumuloLogFinderWebApp/blob/main/QumuloLogFinderWebApp/assets/WebApp%20Diagram.png?raw=true)
+
+### 🔁 App Flow Structure
+![WebApp Flow Structure](https://github.com/thokzz/QumuloLogFinderWebApp/blob/main/QumuloLogFinderWebApp/assets/WebApp%20Flow%20Structure.png?raw=true)
+
+
 ### Key Features
 
 - **Multi-Node Search**: Search logs across up to 10 server nodes simultaneously
