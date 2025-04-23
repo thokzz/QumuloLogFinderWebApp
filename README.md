@@ -1,6 +1,8 @@
 # Log Finder Web Application
 
+This is a Live View of my WebApp
 
+https://claude.ai/public/artifacts/b09aa8e8-74b2-48e3-9a5c-2a981fb026a4
 
 ## Project Overview
 
