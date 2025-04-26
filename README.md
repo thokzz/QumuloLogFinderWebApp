@@ -63,11 +63,7 @@ Log Finder is a full-stack web application designed to efficiently search and an
 
 ### Backend Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/log-finder.git
-   cd log-finder
-   ```
+1. Clone the repository
 
 2. Create a virtual environment and install dependencies:
    ```bash
