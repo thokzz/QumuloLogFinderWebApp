@@ -31,7 +31,7 @@ Log Finder is a full-stack web application designed to efficiently search and an
 
 ### Key Features
 
-- **Multi-Node Search**: Search logs across up to 10 server nodes simultaneously
+- **Multi-Node Search**: Search logs for multiple server nodes simultaneously
 - **Real-time Results**: Stream search results as they arrive
 - **Advanced Filtering**: Filter search results by various parameters including action types
 - **Pagination**: Navigate through large result sets with ease
